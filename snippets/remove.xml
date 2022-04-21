@@ -36,7 +36,7 @@
   <remove-project name="device/sample"/>-->
   <remove-project name="device/qcom/common"/>
   <remove-project name="device/qcom/vendor-common"/>
-  <!--<remove-project name="device/qcom/sepolicy"/>
+  <remove-project name="device/qcom/sepolicy"/>
   <remove-project name="device/qcom/sepolicy_vndr"/>
 -->
   <!-- External -->
